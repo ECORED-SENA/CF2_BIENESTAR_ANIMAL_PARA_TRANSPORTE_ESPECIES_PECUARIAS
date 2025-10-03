@@ -13,7 +13,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El monitoreo del bienestar animal en el transporte es una herramienta fundamental para prevenir, detectar y corregir condiciones que puedan poner en riesgo la salud y la vida de los animales movilizados. Este proceso debe aplicarse antes, durante y después del viaje, y contemplar tanto indicadores clínicos y conductuales como la aplicación de acciones correctivas, protocolos de contingencia y verificación de competencias del personal. <br><br>
-        p.mb-0 Los lineamientos internacionales (OMSA/WOAH - Cap. 7.3) y la normativa colombiana (Resolución ICA 136 de 2020 y Ley 1774 de 2016) establecen procedimientos y responsabilidades claras para asegurar el cumplimiento de estándares éticos, técnicos y sanitarios.
+        p.mb-0 Los lineamientos internacionales (<em>OMSA/WOAH</em> - Cap. 7.3) y la normativa colombiana (Resolución ICA 136 de 2020 y Ley 1774 de 2016) establecen procedimientos y responsabilidades claras para asegurar el cumplimiento de estándares éticos, técnicos y sanitarios.
 
     separador
     
@@ -88,7 +88,7 @@
                 p Vigilar síntomas como jadeo, salivación, sudoración, heridas, vocalizaciones, agresividad, apatía o intentos de tumbarse.
         
               .div(titulo="Observación y registros operativos")
-                p inspecciones 
+                p Realizar inspecciones periódicas en puntos de parada. Controlar temperatura y humedad interna. Registrar incidencias, alimentación, consumo de agua, mortalidad y condiciones climáticas en el diario de ruta.  
         
               .div(titulo="Satisfacción de necesidades básicas")
                 p Proveer agua y alimento en trayectos prolongados (obligatorio si superan 12 horas). Programar descansos en lugares sombreados, ventilados y seguros.
@@ -152,7 +152,7 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema5/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Ajustes logísticos
-                p.text-center.mb-0 Redistribuir animales, reducir densidad, separar individuos agresivos
+                p.text-center.mb-0 Redistribuir animales, reducir densidad, separar individuos agresivos.
                 p.text-center.mb-0 Modificar ruta o acortar tiempo en condiciones climáticas extremas.
 
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
@@ -269,7 +269,7 @@
                       li.d-flex.mb-2
                         .lista-ol--cuadro__vineta.bg-color-10
                           span f
-                        | Conocimiento normativo (ICA, WOAH, Ley 1774).
+                        | Conocimiento normativo (ICA, <em>WOAH</em>, Ley 1774).
                       li.d-flex.mb-2
                         .lista-ol--cuadro__vineta.bg-color-10
                           span g

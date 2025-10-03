@@ -127,7 +127,7 @@
                     p.mb-0 Personal capacitado.
                   li.mb-0.d-flex
                     i.fa-solid.fa-circle-check.bg-color-5
-                    p.mb-0 Cumplimiento de la normativa nacional (ICA, Ley 1774) e internacional (WOAH, IATA).
+                    p.mb-0 Cumplimiento de la normativa nacional (ICA, Ley 1774) e internacional (<em>WOAH, IATA</em>).
 
         p(data-aos="fade-left") Un manejo deficiente no solo representa un riesgo para los animales, sino también para la legalidad, la reputación y la rentabilidad del sistema productivo.
 

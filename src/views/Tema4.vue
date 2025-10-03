@@ -23,7 +23,7 @@
                     img(src='@/assets/curso/tema4/2.svg', alt='')
                 .col-lg
                   .p-4
-                    p.mb-0(data-aos="fade-up") Por ello, resulta indispensable implementar sistemas estructurados de evaluación, monitoreo y mitigación de riesgos, siguiendo las disposiciones establecidas en la Resolución ICA 136 de 2020, la Ley 1774 de 2016 y los estándares de la WOAH (2023).
+                    p.mb-0(data-aos="fade-up") Por ello, resulta indispensable implementar sistemas estructurados de evaluación, monitoreo y mitigación de riesgos, siguiendo las disposiciones establecidas en la Resolución ICA 136 de 2020, la Ley 1774 de 2016 y los estándares de la <em>WOAH</em> (2023).
 
         separador
         
@@ -235,7 +235,7 @@
             th Puertas
             td Amplias, resistentes, con cierre seguro.
           tr
-            td Bebederos y comederos
+            th Bebederos y comederos
             td Obligatorios en viajes superiores a 12 horas.
           tr.br-color-sintesis
             th Contenedores o jaulas
@@ -356,7 +356,7 @@
                         i.fa-solid.fa-circle-check.bg-color-5
                         p.mb-0 Disponer los cadáveres según las normas ambientales vigentes.
 
-            p(data-aos="fade-left") La implementación de un sistema estructurado de evaluación, monitoreo y mitigación de riesgos en el transporte pecuario permite preservar el bienestar animal, evitar pérdidas económicas y garantizar el cumplimiento de la normativa nacional e internacional. Asimismo, fortalece una ganadería más ética, sostenible y competitiva, alineada con los principios de la WOAH, las exigencias de los mercados y la responsabilidad social de los actores del sistema productivo.
+            p(data-aos="fade-left") La implementación de un sistema estructurado de evaluación, monitoreo y mitigación de riesgos en el transporte pecuario permite preservar el bienestar animal, evitar pérdidas económicas y garantizar el cumplimiento de la normativa nacional e internacional. Asimismo, fortalece una ganadería más ética, sostenible y competitiva, alineada con los principios de la <em>WOAH</em>, las exigencias de los mercados y la responsabilidad social de los actores del sistema productivo.
     
     .tarjeta.color-acento-contenido.p-3.mb-5
       .row.justify-content-around.align-items-center

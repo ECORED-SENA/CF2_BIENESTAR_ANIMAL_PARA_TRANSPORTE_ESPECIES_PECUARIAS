@@ -14,7 +14,7 @@
             figure
               img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
-            p(data-aos="fade-left") DEl transporte de animales es un factor determinante en su bienestar y en la calidad de la carne. Un manejo inadecuado, como tiempos prolongados de ayuno, golpes, sobrecarga o condiciones inapropiadas, genera altos niveles de estrés, pérdida de peso, hematomas y alteraciones fisiológicas que disminuyen la calidad del producto final.
+            p(data-aos="fade-left") Del transporte de animales es un factor determinante en su bienestar y en la calidad de la carne. Un manejo inadecuado, como tiempos prolongados de ayuno, golpes, sobrecarga o condiciones inapropiadas, genera altos niveles de estrés, pérdida de peso, hematomas y alteraciones fisiológicas que disminuyen la calidad del producto final.
         
             .bg-color-1.mb-5.tarjeta(data-aos="fade-up")
               .row.justify-content-center.align-items-center
@@ -455,11 +455,11 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/33.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Temperatura ideal
-                p.text-center Entre 16 y 22 °C
+                p.text-center Entre 16 y 22 °C.
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/34.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Estrés por calor
-                p.text-center Comienza a >28 °C, con síntomas como jadeo intenso y riesgo de colapso
+                p.text-center Comienza a >28 °C, con síntomas como jadeo intenso y riesgo de colapso.
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/35.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Estrés por frío
@@ -632,7 +632,7 @@
                 .col-4
                   figure
                     img(src='@/assets/curso/tema1/46.svg', alt='Texto que describa la imagen')
-              h4.text-center WOAH (2023)
+              h4.text-center <em>WOAH</em> (2023)
               p.text-center Código Sanitario para los Animales Terrestres. Estándares internacionales de transporte.
 
     separador
@@ -754,7 +754,7 @@
               figure
                 img(src='@/assets/curso/tema1/53.svg', alt='Texto que describa la imagen')
           h4.text-center Temperatura ambiente
-          p.text-center Ajustar densidad según temperatura. En climas cálidos, reducir número de aves por m².
+          p.text-center Ajustar densidad según temperatura. En climas cálidos, reducir el número de aves por m².
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         .tarjeta--boton.bg-color-9.p-4.h-100
@@ -850,7 +850,7 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/63.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Zona de confort térmico
-                p.text-center Entre 18 °C y 24 °C, con humedad relativa del 60 – 70 
+                p.text-center Entre 18 °C y 24 °C, con humedad relativa del 60 – 70 %
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/64.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Riesgo de golpe de calor
@@ -1225,7 +1225,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Estabilidad y condiciones técnicas del vehículo
     
-    p.mb-5 El diseño del vehículo y sus componentes internos deben garantizar la seguridad, evitar caídas o lesiones, y mantener una ventilación adecuada.
+    p.mb-5 El diseño del vehículo y sus componentes internos deben garantizar la seguridad, evitar caídas o lesiones y mantener una ventilación adecuada.
 
     .bg-full-width.bg-fondo-3
       .px-4.px-md-5.pb-md-3

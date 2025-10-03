@@ -47,7 +47,7 @@
                 img(src="@/assets/curso/tema2/3.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Propietarios y criadores
-              p Verificar el estado de salud, aptitud para el viaje, disponibilidad de personal capacitado y recursos veterinarios.Debe ser antideslizante y estar en buen estado. Evitar acumulación de estiércol o agua. Puede usarse goma ranurada, metal con relieve o cama (viruta/paja) seca y sin exceso.
+              p Verificar el estado de salud, aptitud para el viaje, disponibilidad de personal capacitado y recursos veterinarios. Debe ser antideslizante y estar en buen estado. Evitar acumulación de estiércol o agua. Puede usarse goma ranurada, metal con relieve o cama (viruta/paja) seca y sin exceso.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -185,7 +185,7 @@
             .col-lg
               .p-4
                 p.mb-0(data-aos="fade-up") La movilización aérea de animales debe cumplir con las directrices internacionales y nacionales vigentes.
-                p.mb-0 Está regulado por el Live Animals Regulations (LAR) de la International Air Transport Association (IATA) y en Colombia por el ICA y la Aeronáutica Civil.
+                p.mb-0 Está regulado por el <em>Live Animals Regulations</em> (LAR) de la <em>International Air Transport Association</em> (IATA) y en Colombia por el ICA y la Aeronáutica Civil.
         
         h3.mb-0.bg-color-7.p-3.tarjeta.d-lg-inline.mb-5 Requisitos técnicos generales
       

@@ -14,7 +14,7 @@
             img(src='@/assets/curso/tema6/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") El estudio de casos reales o simulados representa una herramienta clave para fortalecer el bienestar animal durante el transporte. Analizar situaciones críticas, identificar errores y aplicar soluciones oportunas permite implementar mejoras continuas y garantizar el cumplimiento de la normativa nacional (Resolución ICA 136 de 2020, Ley 1774 de 2016) e internacional (OMSA/WOAH, Capítulo 7.3). Este enfoque práctico contribuye a reducir pérdidas económicas, prevenir impactos sanitarios y fortalecer una ganadería responsable y sostenible.
+            p.mb-0(data-aos="fade-up") El estudio de casos reales o simulados representa una herramienta clave para fortalecer el bienestar animal durante el transporte. Analizar situaciones críticas, identificar errores y aplicar soluciones oportunas permite implementar mejoras continuas y garantizar el cumplimiento de la normativa nacional (Resolución ICA 136 de 2020, Ley 1774 de 2016) e internacional (<em>OMSA/WOAH</em>, Capítulo 7.3). Este enfoque práctico contribuye a reducir pérdidas económicas, prevenir impactos sanitarios y fortalecer una ganadería responsable y sostenible.
     
     separador
     
@@ -99,7 +99,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Consideración clave
     
-    p.p-3.bg-color-7.mb-0.tarjeta Todas las decisiones deben estar registradas en el diario de ruta y estar fundamentadas en protocolos oficiales (ICA, OMSA/WOAH).
+    p.p-3.bg-color-7.mb-0.tarjeta Todas las decisiones deben estar registradas en el diario de ruta y estar fundamentadas en protocolos oficiales (ICA, <em>OMSA/WOAH</em>).
 
     separador
     

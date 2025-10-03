@@ -448,8 +448,7 @@ export default {
         {
           nombre: 'Eliana Audrey Manchola Pérez',
           cargo: 'Experta temático',
-          centro:
-            'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Paola Alexandra Moya',

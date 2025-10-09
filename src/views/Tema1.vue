@@ -14,7 +14,7 @@
             figure
               img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
-            p(data-aos="fade-left") Del transporte de animales es un factor determinante en su bienestar y en la calidad de la carne. Un manejo inadecuado, como tiempos prolongados de ayuno, golpes, sobrecarga o condiciones inapropiadas, genera altos niveles de estrés, pérdida de peso, hematomas y alteraciones fisiológicas que disminuyen la calidad del producto final.
+            p(data-aos="fade-left") El transporte de animales es un factor determinante en su bienestar y en la calidad de la carne. Un manejo inadecuado, como tiempos prolongados de ayuno, golpes, sobrecarga o condiciones inapropiadas, genera altos niveles de estrés, pérdida de peso, hematomas y alteraciones fisiológicas que disminuyen la calidad del producto final.
         
             .bg-color-1.mb-5.tarjeta(data-aos="fade-up")
               .row.justify-content-center.align-items-center
@@ -675,7 +675,7 @@
                 p Evita fracturas o lesiones en patas y alas.
               .col-lg-6
                 figure
-                  img(src='@/assets/curso/tema1/49.png', alt='')
+                  img(src='@/assets/curso/tema1/49b.png', alt='')
           .py-4.py-md-5(titulo="Entrada y salida rápida" :icono="require('@/assets/componentes/2.svg')").p-5
             .row.align-items-center
               .col-lg-6.mb-3.mb-lg-0

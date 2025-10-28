@@ -222,7 +222,7 @@
         p.mb-5.mt-5 Cada grupo animal requiere condiciones particulares durante el transporte aéreo para evitar estrés y garantizar su integridad.
     
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 6.
+      h5 Tabla 7.
       span Requisitos específicos para el transporte aéreo de animales
 
     .tabla-a.color-acento-contenido.mb-5.pst

@@ -209,7 +209,7 @@
     p.mb-5 Las unidades de transporte deben garantizar la integridad física y fisiológica del animal en todo momento. A continuación se detallan sus principales características:
 
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 7.
+      h5 Tabla 8.
       span Requisitos técnicos mínimos de los vehículos de transporte animal
 
     .tabla-a.color-acento-contenido.mb-5.pst

@@ -359,7 +359,7 @@
             p Temblores, postura encorvada, piloerección, especialmente en terneros o animales mojados. Usar cortinas laterales, cama seca, proteger de corrientes de aire, reducir exposición a la intemperie.
     
           .div(titulo="Respuesta fisiológica")
-            p Aumento de cortisol, inmunosupresión, pérdida de peso (encogimiento) de entre 3 y 7 %. Optimizar condiciones de transporte y minimizar duración del viaje.
+            p Aumento de cortisol, inmunosupresión, pérdida de peso (encogimiento) de entre 3 % y 7 %. Optimizar condiciones de transporte y minimizar duración del viaje.
     
     h3.mb-0.bg-color-7.p-3.tarjeta.d-lg-inline.mb-5 Densidad y espacio: recordatorio operativo
 
@@ -455,7 +455,7 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/33.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Temperatura ideal
-                p.text-center Entre 16 y 22 °C.
+                p.text-center Entre 16 °C y 22 °C.
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/34.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Estrés por calor
@@ -763,7 +763,7 @@
               figure
                 img(src='@/assets/curso/tema1/54.svg', alt='Texto que describa la imagen')
           h4.text-center Pollitos de un día
-          p.text-center Requieren temperatura inicial entre 32 y 35 °C y evitar corrientes de aire.
+          p.text-center Requieren temperatura inicial entre 32 °C y 35 °C y evitar corrientes de aire.
     
       .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-9.p-4.h-100
@@ -850,7 +850,7 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/63.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Zona de confort térmico
-                p.text-center Entre 18 °C y 24 °C, con humedad relativa del 60 – 70 %
+                p.text-center Entre 18 °C y 24 °C, con humedad relativa del 60 % - 70 %
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/64.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Riesgo de golpe de calor
@@ -994,7 +994,7 @@
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/78.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Rampas seguras
-                p.text-center Inclinación máxima de 20 °, superficie antideslizante y barandas laterales para evitar caídas.
+                p.text-center Inclinación máxima de 20°, superficie antideslizante y barandas laterales para evitar caídas.
               .bg-color-12.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema1/79.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Iluminación adecuada
@@ -1314,7 +1314,7 @@
             p Jadeo, hipertermia, colapsos, mayor vulnerabilidad en corderos y cabritos. Transportar en horas frescas y garantizar ventilación adecuada.
     
           .div(titulo="Privación de agua/alimento")
-            p Deshidratación, disminución del rendimiento, úlceras. Proveer agua cada 8 h en viajes prolongados.
+            p Deshidratación, disminución del rendimiento, úlceras. Proveer agua cada 8 horas en viajes prolongados.
     
           .div(titulo="Ayuno prolongado")
             p Pérdida de peso en canal, debilidad, trastornos digestivos. Minimizar tiempo sin alimento antes del transporte.

@@ -244,7 +244,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/BIENESTAR_ANIMAL_CF02_DU.zip',
+        download: 'downloads/72312190_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',

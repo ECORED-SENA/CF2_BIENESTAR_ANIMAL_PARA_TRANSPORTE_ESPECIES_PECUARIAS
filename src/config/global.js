@@ -249,7 +249,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/mate.zip',
       },
       {
         icono: 'far fa-registered',
